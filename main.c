@@ -50,10 +50,10 @@ void main_link()
     // printf("Connection established");
 
     // Loop forever
-    printf("Rock Paper Sicsors\n");
+    printf("Rock Paper Scissors\n");
     printf("UP - Rock\n");
     printf("Down - Paper\n");
-    printf("Left - Sicsors\n");
+    printf("Left - Scissors\n");
     uint8_t i = 0;
     uint8_t my_choice = 0;
 
